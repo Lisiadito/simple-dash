@@ -1,20 +1,50 @@
 {
-	"title" : "Simple Dash",
+	"title" : "SkYNewZ",
 	"items" : [
 		{
 			"alt" : "Github",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/Swagielka"
+			"link" : "https://github.com/SkYNewZ"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt" : "Linkedin",
+			"icon" : "fab fa-linkedin",
+			"link" : "https://www.linkedin.com/in/skynewz/"
+		},
+		{
+			"alt" : "CV",
+			"icon" : "fas fa-file-contract",
+			"link" : "https://bit.ly/2qp07IK"
+		},
+		{
+			"alt" : "Telegram",
+			"icon" : "fab fa-telegram-plane",
+			"link" : "https://t.me/Gragysan"
 		},
 		{
 			"alt" : "Docker Hub",
 			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"link" : "https://hub.docker.com/u/skynewz/"
+		},
+		{
+			"alt" : "Email",
+			"icon" : "fas fa-envelope",
+			"link" : "mailto:quentin@lemairepro.fr"
+		},
+		{
+			"alt" : "Phone",
+			"icon" : "fas fa-phone",
+			"link" : "tel:+33606467493"
+		},
+		{
+			"alt" : "Keybase",
+			"icon" : "fab fa-keybase",
+			"link" : "https://keybase.io/skynewz"
+		},
+		{
+			"alt" : "Twitter",
+			"icon" : "fab fa-twitter",
+			"link" : "https://twitter.com/skynewz_"
 		}
 	]
 }
